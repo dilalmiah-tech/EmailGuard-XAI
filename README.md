@@ -112,13 +112,14 @@ Commit links: Commit links:
 
 # AI assistance
 
-- *Claude (Anthropic):* proposed the structure, dataset options and plan; generated all Python code and tests; drafted this README.
+- *Claude (Anthropic):* dataset options and plan; aided in generating Python code and compiling tests; drafted this README.
 - *ChatGPT (OpenAI):* development guidance, code review and testing support.
 
 *My role:*
 - I made the design and scope decisions and the preprocessing rules.
 - I ran training, the automated tests and the manual checks myself, and recorded the actual results.
 - I checked the metrics against the confusion matrix and reviewed this README.
+- Worked on the report.
 
 
 # References
