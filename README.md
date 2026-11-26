@@ -3,7 +3,7 @@
 
 *Repository:* https://github.com/dilalmiah-tech/EmailGuard-XAI
 
----------------------------*Submitted commit:* [add commit hash or release tag once pushed]
+**Submitted version:** `v1.0-submission`
 
 EmailGuard-XAI is an explainable, AI-assisted tool for checking whether an email looks suspicious. It gives a recommendation, a model score and an explanation, and the user makes the final decision. It never deletes emails, blocks senders or takes security actions.
 
@@ -104,7 +104,11 @@ Results from `train.py` on the test set (7,793 of 38,963 cleaned emails; positiv
 4. *Model review:* after I reviewed the top coefficients, I narrowed the claims made about the model.
 5. *Application:* Claude generated `model_utils.py`, `app.py` and the tests to my requirements. I ran and checked them.
 
--------------------Commit links: [add links once pushed to GitHub]
+Commit links: Commit links:
+
+- [Initial repository setup](https://github.com/dilalmiah-tech/EmailGuard-XAI/commit/2ce2315)
+- [Classification model and evaluation pipeline](https://github.com/dilalmiah-tech/EmailGuard-XAI/commit/a400317)
+- [Interactive application, explainability, tests and documentation](https://github.com/dilalmiah-tech/EmailGuard-XAI/commit/ad9d14d)
 
 # AI assistance
 
